@@ -1,4 +1,4 @@
-##屏蔽自动配置
+## 屏蔽自动配置
  > java注解
  @EnableAutoConfiguration(exclude = {XXXAutoConfiguration.class})
  
